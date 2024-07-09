@@ -1,4 +1,4 @@
-let a = 10;
+let a = 8;
 if (a%2==0)
 {
 cosole.log("even");
